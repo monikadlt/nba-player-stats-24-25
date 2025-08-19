@@ -1,12 +1,13 @@
 # nba-player-stats-24-25
 Excel-based analysis of 2024–25 NBA player stats using pivot tables and player lookup tools
-NBA Player Statistics Analysis (2024–25 Season)
+
 This project analyzes NBA player statistics from the 2024–25 season using Excel. The goal was to explore player performance through league benchmarks, clutch performance comparisons, and positional averages, while building an interactive way to look up player stats.
 
 Project Overview
 •	Cleaned and organized raw NBA player data from Basketball-Reference.com
 •	Built pivot tables to calculate league averages and positional benchmarks.
 •	Designed a dropdown lookup tool to view individual player “clutch” stats compared to league averages.
+
 Created summary tables for:
 •	Top player averages vs league averages
 •	Efficiency leaders
@@ -21,6 +22,7 @@ The project highlights common basketball performance measures, including:
 •	Assists-to-Turnover Ratio (AST/TO)Points per Game (PPG)
 •	Rebounds (REB)
 •	Player Efficiency Metrics
+
 Players are evaluated against:
 •	League averages (is a player better/worse than average?)
 •	Standard performance benchmarks (e.g., 40%+ 3PT = excellent).
